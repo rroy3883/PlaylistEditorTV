@@ -1,0 +1,23 @@
+#EXTM3U 
+#EXTINF: -1 group-title="PLAY", Bhojpuri Cinema
+http://b1g.one:80/play/live.php?mac=00:1a:79:72:9B:F6&stream=21236&extension=ts
+#EXTINF: -1 group-title="PLAY", Filamchi Bhojpuri
+http://b1g.one:80/play/live.php?mac=00:1a:79:72:9B:F6&stream=417538&extension=ts
+#EXTINF: -1 group-title="PLAY", Oscar Movies Bhojpuri
+http://line.tektv.live:80/play/live.php?mac=00:1a:79:47:F8:A7&stream=946138&extension=ts&play_token=fsUs4MPs1g
+#EXTINF: -1 group-title="PLAY", Pasand TV
+http://nordicstream.xyz:2095/play/live.php?mac=00:1a:79:77:25:9C&stream=460948&extension=ts&play_token=uI46WNHfMc
+#EXTINF: -1 group-title="PLAY", Anjan TV
+http://iptvmedia.live:8080/1eae94e3/e22181ebb2/286918
+#EXTINF: -1 group-title="PLAY", Manoranjan Grand
+http://nordicstream.xyz:2095/play/live.php?mac=00:1a:79:77:25:9C&stream=461023&extension=ts&play_token=3H9iBHPGNs
+#EXTINF: -1 group-title="PLAY", Gubbare TV
+http://nordicstream.xyz:2095/play/live.php?mac=00:1a:79:77:25:9C&stream=460935&extension=ts&play_token=q2rmbPXEOs
+#EXTINF: -1 group-title="PLAY", ETV Bal Bharat
+http://nordicstream.xyz:2095/play/live.php?mac=00:1a:79:77:25:9C&stream=461222&extension=ts&play_token=NJ3WLar7tC
+#EXTINF: -1 group-title="PLAY", Super Hungama
+http://robsrewards.xyz:8880/play/live.php?mac=00:1a:79:49:7E:02&stream=862679&extension=ts&play_token=exjH0m297Z
+#EXTINF: -1 group-title="PLAY", Star Utsav Movies
+http://103.141.159.69:8000/play/a04j/index.m3u8
+#EXTINF: -1 group-title="PLAY", Ishara TV
+https://epiconvh.s.llnwi.net/ishaara/master_480.m3u8
